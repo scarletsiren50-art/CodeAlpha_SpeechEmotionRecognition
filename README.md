@@ -1,3 +1,12 @@
+## CodeAlpha Internship
+
+**Name:** Mohammed Sadiya Tabassum  
+**Student ID:** CA/DF1/210263  
+**Internship Domain:** Machine Learning  
+**Task Name:** Task 2 - Emotion Recognition from Speech
+
+---
+
 # 🎙️ Speech Emotion Recognition System
 
 A Machine Learning project developed as part of the **CodeAlpha Machine Learning Internship**.

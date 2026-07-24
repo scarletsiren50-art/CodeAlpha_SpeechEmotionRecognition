@@ -155,6 +155,10 @@ The model showed particularly strong recognition for **Surprised** and **Calm** 
 
 ![Emotion Prediction Application](outputs/03_emotion_prediction_app.png)
 
+### Deployed Streamlit Application
+
+![Deployed Application](outputs/04_deployed_application.png)
+
 ### Model Comparison
 
 ![Model Comparison](outputs/baseline_model_comparison.png)

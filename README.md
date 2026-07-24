@@ -17,6 +17,14 @@ The system supports eight emotion classes:
 
 ---
 
+## 🔗 Project Links
+
+🌐 **Live Demo:** [Speech Emotion Recognition App](https://codealphaspeechemotionrecognition-ch9srgvnareihojqpb42ur.streamlit.app/)
+
+💻 **GitHub Repository:** [CodeAlpha Speech Emotion Recognition](https://github.com/scarletsiren50-art/CodeAlpha_SpeechEmotionRecognition)
+
+---
+
 ## 📌 Project Overview
 
 Speech Emotion Recognition (SER) aims to identify emotional information from speech signals.
